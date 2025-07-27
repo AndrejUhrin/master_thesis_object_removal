@@ -1,0 +1,11 @@
+pipeline_optimization_dataset/*
+results_pipeline_optimization_dataset/*
+post_filtering_results/*
+inpaint_blur_results/*
+ground_truth_dataset/*
+lama/big-lama/models/*
+.DS_Store
+.env
+final_evaluation_dataset/*
+results_on_unseen_dataset/*
+archived/run_files_archived/archived_results/minimum_threshold_needed/*
