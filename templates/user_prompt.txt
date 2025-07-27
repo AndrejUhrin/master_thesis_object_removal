@@ -1,0 +1,3 @@
+Respond only by calling the `verify_label` function:
+
+{ "keep": true | false }.
